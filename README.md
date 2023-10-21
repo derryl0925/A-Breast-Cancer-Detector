@@ -65,13 +65,6 @@ First, we would like to increase the size of our dataset. Bringing access to a g
 - DNS
 - Heroku
 
-<!-- 
-## [Youtube Video](https://www.youtube.com/watch?v=m9t6jYTXXc8) -
-
-https://www.youtube.com/watch?v=m9t6jYTXXc8
--->
-
-
 ## Resources
 
    CSS: https://materializecss.com/
